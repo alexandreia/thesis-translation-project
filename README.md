@@ -1,4 +1,4 @@
-# Thesis Translation Project (Romanian to English)
+# Thesis Translation Using LLMs (Romanian to English)
 
 Overview
 
