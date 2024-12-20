@@ -1,0 +1,28 @@
+(venv) andreiaalexa@MacBook-Air-Andreia thesis-translation-project % python src/translate.py
+
+
+Extracted text: Rezumat
+Scopul principal lucrării este de a oferi o introducere în structura discursului prin intermediul modelului lui  D. Schiffrin și de a aplica o metodă de adnotare a marcatorilor discursivi oferită de Crible și Degand, într-un fragment din romanul lui Kurt Vonnegut, Slaughterhouse-Five, în traducere românească şi în original. Apoi, în ultima parte a lucrării, vom folosi alte studii din domeniu pentru a discuta funcţia de contrast. 
+
+Text extracted from .docx
+Text cleaned
+Text tokenized
+
+
+Tokenized text: {'input_ids': tensor([[  379,  9237,  5439,  9691,  5021,  1569,  4833,  8774,  4507,   257,
+             5,     9, 31118,    45,  6952,    66,   159, 34606,  7336,  2823,
+           908,  2859, 35811,  2038,   908,   561,   306,     3, 22550,  1967,
+          6121,   152,     5,     9,  7125,    45,  1561,  7181,     5,   488,
+           201,  7198,     9,  4429, 21127,  7336,   675, 23124, 34227,     5,
+          8102,  1014,   152,   274,  2390,   102,     2,   159, 15425,    14,
+           178, 15371,   597,  9939,   225,   561, 19189,    43,   577, 11149,
+          1868,    43,     2,   163,   249, 22874,   721,  6703,    14,  3027,
+           202,     2,   159, 38618,    66, 18678,  6520,  7113,   152,   159,
+          1799,     3, 21284,     2,   159, 13544,   437,     9,  4833,  8774,
+          4507,     2,  8365, 21322,  8510, 34834,   597,    73, 16388,   194,
+           515,     9, 33802,  2534,  2165,     5,   581,  1139,     3,     0]]), 'attention_mask': tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]])}
+Summary The main purpose of the work is to provide an introduction to the structure of the speech through the model of D. Schiffrin and to apply a method of annotation of the discursive markers offered by Crible i Degand, in a fragment of Kurt Vonnegut's novel, Slaughterhouse-Five, in Romanian translation and in original. Then, in the last part of the work, we will use other studies in the field to discuss the contrast.
