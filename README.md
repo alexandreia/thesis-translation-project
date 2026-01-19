@@ -2,7 +2,7 @@
 
 Overview
 
-This project demonstrates the process of translating a bachelor thesis written in Romanian into English using Large Language Models (LLMs). It includes the extraction of text from a Romanian PDF document, translation using a state-of-the-art NLP model, and the final generation of an English thesis. The project is designed to showcase how LLMs can be utilized for language translation tasks, making academic documents accessible to a wider audience.
+This project demonstrates the process of translating a bachelor thesis written in Romanian into English using Large Language Models (LLMs). It includes the extraction of text from a Romanian PDF document, translation using NLP, and the final generation of an English thesis. The project is designed to showcase how LLMs can be utilized for language translation tasks, making academic documents accessible to a wider audience.
 
 # The repository includes:
 
