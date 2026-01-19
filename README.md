@@ -1,5 +1,5 @@
 ----------DRAFT------
-# Thesis Translation Using LLMs (Romanian to English)
+# Bachelor Thesis Translation Using LLMs (Romanian to English)
 
 Overview
 
@@ -7,7 +7,7 @@ This project demonstrates the process of translating a bachelor thesis written i
 
 # The repository includes:
 
-The original thesis in Romanian.
+The original Bachelor thesis in Romanian.
 The translated thesis in English.
 Python scripts for text preprocessing, translation, and evaluation.
 A Jupyter Notebook demonstrating the entire workflow.
